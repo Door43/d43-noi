@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[noi:home|Door43 (noi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-noi|d43-noi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-noi/archive/master.zip|d43-noi.zip]]
+
+**Recent Changes**
+{{changes>ns = noi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/noi|Ethnologue data]]
+
